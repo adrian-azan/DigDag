@@ -1,0 +1,45 @@
+{
+  "Mining":
+  {
+    "obj_recipe_ladder":
+    {
+	"name": "Ladder",
+      "level": 0,
+      "description": "",
+      "cost":
+      {
+        "Dirt": 2
+      },
+      
+      "yield": 5
+      
+    },
+    
+    "obj_recipe_rope":
+    {
+		"name": "Rope",
+      "level": 0,
+      "description": "",
+      "cost":
+      {
+        "Dirt": 5
+      },
+      
+      "yield": 5
+    }
+    
+  },
+
+	"Fighting":
+	{
+	},
+	"Smelting":
+	{
+	},
+	"Magic":
+	{
+	},
+	"Rogue":
+	{
+	}
+}
